@@ -1,0 +1,19 @@
+{
+  "name": "practice_makes_perfect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vibe.js",
+  "dependencies": {
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
